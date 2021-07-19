@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">WARNING</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5e2ce008_002D1891_002D48da_002D9452_002D01d80711850e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FirstAndSecondArgNoCommonSubstringsReturns0" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::0742D2B2-F91E-46D5-BD1C-0E0D1EE10C00::net5.0::CommonSubstrings.Test.UnitTestSuite.LongestCommonSubstringTests.FirstAndSecondArgNoCommonSubstringsReturns0&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::0742D2B2-F91E-46D5-BD1C-0E0D1EE10C00::net5.0::CommonSubstrings.Test.UnitTestSuite.LongestCommonSubstringTests.FirstAndSecondArgSingleCommonSubstringReturns1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::0742D2B2-F91E-46D5-BD1C-0E0D1EE10C00::net5.0::CommonSubstrings.Test.UnitTestSuite.LongestCommonSubstringTests.FirstAndSecondManyMatchingSubstringReturns4&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f0feeb60_002D15a2_002D4e70_002D98c0_002D3abea1b73d61/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FirstAndSecondArgNoCommonSubstringsReturns0 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::0742D2B2-F91E-46D5-BD1C-0E0D1EE10C00::net5.0::CommonSubstrings.Test.UnitTestSuite.LongestCommonSubstringTests.FirstAndSecondArgNoCommonSubstringsReturns0&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

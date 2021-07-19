@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonSubstrings", "CommonSubstrings\CommonSubstrings.csproj", "{0F40D692-C184-42ED-A54D-E2842D161C87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonSubstrings.Test.UnitTestSuite", "CommonSubstrings.Test.UnitTestSuite\CommonSubstrings.Test.UnitTestSuite.csproj", "{0742D2B2-F91E-46D5-BD1C-0E0D1EE10C00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F40D692-C184-42ED-A54D-E2842D161C87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F40D692-C184-42ED-A54D-E2842D161C87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F40D692-C184-42ED-A54D-E2842D161C87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F40D692-C184-42ED-A54D-E2842D161C87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0742D2B2-F91E-46D5-BD1C-0E0D1EE10C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0742D2B2-F91E-46D5-BD1C-0E0D1EE10C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0742D2B2-F91E-46D5-BD1C-0E0D1EE10C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0742D2B2-F91E-46D5-BD1C-0E0D1EE10C00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
